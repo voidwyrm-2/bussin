@@ -4,7 +4,7 @@
     "bussin": "npx ts-node src/main.ts"
   },
   "devDependencies": {
-    "@types/node": "^20.9.0",
+    "@types/node": "^20.11.30",
     "typescript": "^5.2.2"
   },
   "dependencies": {
